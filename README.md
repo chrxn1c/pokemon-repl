@@ -6,6 +6,6 @@ A tool that lets the user interact with PokeAPI to gather information about poke
 
 # How to build & run the project
 
-- `$ git clone https://github.com/chrxn1c/pokemon-repl`
+- `$ git clone https://github.com/3XD3/pokemon-repl.git`
 - `$ cd pokemon-repl`
 - `$ go run cmd/main.go`
